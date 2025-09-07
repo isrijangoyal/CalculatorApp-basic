@@ -10,3 +10,4 @@ A simple **Java console-based calculator** that performs basic arithmetic operat
 ## How to Run
 1. Clone the repository:
    ```bash
+   git clone https://github.com/isrijangoyal/CalculatorApp-basic
